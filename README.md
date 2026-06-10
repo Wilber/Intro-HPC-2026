@@ -22,7 +22,7 @@ Use this repository as a working area to experiment with HPC concepts, examples,
 **Project1–Project10**  
 Each folder contains workshop materials, example code, exercises, and guidance for a specific bootcamp project.
 
-**Pre-req-resources**  
+**Resources**  
 Contains materials on foundational HPC concepts, Linux basics, introductory parallel programming, ALCF account setup, SSH guidance, and suggested background readings.
 
 ---
