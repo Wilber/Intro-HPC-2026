@@ -1,0 +1,1 @@
+This repository contains information related to the Intro to HPC Bootcamp held in person at Argonne National Laboratory (ANL) in August 2026. The Bootcamp is hosted by the Argonne Leadership Computing Facility (ALCF) at Argonne National Laboratory.
