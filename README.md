@@ -36,18 +36,6 @@ Contains materials on foundational HPC concepts, Linux basics, introductory para
 
 ---
 
-## Getting Started  
-
-### Prerequisites  
-Participants should have:
-
-- A GitHub account  
-- Basic understanding of Linux command‑line usage  
-- An ALCF account (if accessing systems directly)  
-- SSH configuration completed (recommended)  
-
----
-
 ## Cloning the Repository  
 
 ```
