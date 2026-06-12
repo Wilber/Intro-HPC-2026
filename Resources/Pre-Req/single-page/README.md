@@ -100,7 +100,7 @@ From there, work through the lessons until you reach the end of the **For Loops*
 
 You’re welcome to continue beyond that if you’re having fun, but completing through For Loops will provide a strong foundation for the bootcamp.
 
-
+---
 
 ### Libraries and Packages
 
@@ -242,7 +242,7 @@ Think of it like:
 
 The good news is that you do **not** need to know how to create a notebook from scratch before bootcamp. Most project leads will provide notebooks for you. Your goal is simply to become comfortable opening a notebook, running code, and making small changes.
 
-
+---
 
 ### Open a Notebook
 
@@ -304,7 +304,7 @@ If something seems broken or out of sync, restarting the kernel often fixes the 
 
 You don't need to fully understand kernels yet. Just know that every notebook has one.
 
-
+---
 
 ### Important Jupyter Shortcuts
 
@@ -320,7 +320,7 @@ You don't need to fully understand kernels yet. Just know that every notebook ha
 
 Don't worry about memorizing these. You'll pick them up naturally during bootcamp.
 
-
+---
 
 ### Common Beginner Mistakes
 
@@ -342,7 +342,7 @@ Restart the kernel and run all cells again.
 
 This fixes more problems than you'd think.
 
-
+---
 
 ### Explore Further (Optional)
 
@@ -391,7 +391,7 @@ You do **not** need to memorize every command.
 
 The goal is simply to become comfortable seeing a terminal window and typing commands into it.
 
-
+---
 
 ### Common Commands You’ll See
 
@@ -412,7 +412,7 @@ You may encounter some of these commands during bootcamp:
 
 Don’t worry if these look unfamiliar right now. You’ll see them again throughout the bootcamp.
 
-
+---
 
 ### A Quick Note About HPC
 
@@ -426,7 +426,7 @@ ssh
 
 This may feel strange at first, but by the end of the week you’ll likely be navigating remote systems like you’ve been doing it for years.
 
-
+---
 
 ### Common Beginner Mistakes
 
@@ -470,7 +470,7 @@ Ctrl + C
 
 This stops the currently running command and is one of the most useful keyboard shortcuts you’ll learn.
 
-
+---
 
 ### Why Do People Love the Terminal?
 
@@ -480,7 +480,7 @@ Then something interesting happens.
 
 You realize you can accomplish complex tasks with just a few commands, automate repetitive work, connect to powerful remote systems, and move through files faster than you ever could with a mouse.
 
-
+---
 
 ### Explore Further (Optional)
 
@@ -539,7 +539,7 @@ The lesson introduces several concepts you’ll encounter during bootcamp:
 
 Don’t worry if these terms feel unfamiliar at first. By the end of the tutorial, you’ll have seen each of them in action.
 
-
+---
 
 ### Git vs. GitHub
 
@@ -566,7 +566,7 @@ It provides a place to store repositories online, collaborate with teammates, tr
 
 You **don’t** need to understand every detail of Git before bootcamp. We simply want you to recognize the tools and basic workflow.
 
-
+---
 
 ### Explore Further (Optional)
 
@@ -588,9 +588,10 @@ Professional programmers, researchers, engineers, and scientists look things up 
 
 The resources below are handy references that you can bookmark and return to throughout the bootcamp whenever you need a quick refresher.
 
+---
 
+- Python Cheat Sheet](https://realpython.com/cheatsheets/python/)
 
-- [Python Cheat Sheet](https://realpython.com/cheatsheets/python/)
 - [Advanced Python Cheat Sheet](https://ehmatthes.github.io/pcc_3e/cheat_sheets/)
 - [Jupyter Cheat Sheet](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 - [Shell/Bash Cheat Sheet](https://docs.nesi.org.nz/Getting_Started/Cheat_Sheets/Bash-Reference_Sheet/)

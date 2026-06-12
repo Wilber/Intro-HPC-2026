@@ -16,7 +16,7 @@ The resources below are handy references that you can bookmark and return to thr
 - [Shell/Bash Cheat Sheet](https://docs.nesi.org.nz/Getting_Started/Cheat_Sheets/Bash-Reference_Sheet/)
 - [Github Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
-
+---
 
 **One Final Thought**
 
