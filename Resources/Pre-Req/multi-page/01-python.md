@@ -48,7 +48,7 @@ If you’d like to learn more about some of the most common libraries used throu
 
 <br>
 
-#### Machine Learning (Optional)
+### Explore Further (Optional)
 
 Python is widely used in machine learning, artificial intelligence, and data science.
 
