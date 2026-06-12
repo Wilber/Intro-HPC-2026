@@ -12,6 +12,10 @@ Think of this prep work as a guided tour of the HPC landscape before we start th
 
 Most importantly: **you belong here, even if you’re a complete beginner.**
 
+<br>
+
+> If you run into any issues, broken links, or have questions while working through these materials, feel free to contact Rene at <rmontelongo@anl.gov>.
+
 ---
 
 ## Contents
