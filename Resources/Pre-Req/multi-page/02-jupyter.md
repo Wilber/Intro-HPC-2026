@@ -67,13 +67,13 @@ You will use this shortcut constantly during bootcamp.
 
 **3. Change Something**
 
-Find a code cell.
+Find a code cell. [change numbers in the plot celll]
 
 Modify a number or some text and run it again.
 
 Notice how the output changes.
 
-Congratulations—you just edited and executed code.
+Congratulations! You just edited and executed code.
 
 **4. Run Cells in Order**
 

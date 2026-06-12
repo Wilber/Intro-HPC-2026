@@ -18,6 +18,8 @@ The resources below are handy references that you can bookmark and return to thr
 
 ---
 
+<br>
+
 **One Final Thought**
 
 Nobody arrives at the Intro to HPC Bootcamp knowing everything.

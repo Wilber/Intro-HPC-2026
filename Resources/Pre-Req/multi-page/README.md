@@ -14,8 +14,6 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 ---
 
-<br>
-
 ## Contents
 
 #### Start Here
@@ -36,17 +34,15 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 ---
 
-<br>
+## Quick Start Guide
 
-## Prep Checklist
+Short on time? Here are the key resources in one place. For additional context and explanations, check out the lessons above.
 
-Before the bootcamp begins, make sure you've:
-
-- [ ] Completed the Python self-assessment
-- [ ] Worked through FutureCoder through the For Loops section
-- [ ] Opened and interacted with a Jupyter Notebook
-- [ ] Completed the Terminal Tutor lessons
-- [ ] Completed GitHub Skills: Introduction to GitHub
+- [ ] [Complete the Python Self-Assessment](https://elearning.unidata.ucar.edu/metpy/PythonReadiness/selfassessment/)
+- [ ] [Work through FutureCoder from "Introducing the Shell" through the "For Loops" section](https://futurecoder.io/course/#toc)
+- [ ] [Open and interact with a Jupyter Notebook](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb)
+- [ ] [Complete the Terminal Tutor lessons](https://www.terminaltutor.com)
+- [ ] [Complete GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
 
 ---
 

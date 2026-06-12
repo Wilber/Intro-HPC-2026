@@ -125,12 +125,6 @@ You realize you can accomplish complex tasks with just a few commands, automate 
 
 If you find yourself enjoying the shell, here are some excellent resources that go beyond the basics.
 
-#### **Bash Crawl**
-
-A dungeon-crawler game that teaches shell commands as you progress through a fantasy adventure.
-
-https://gitlab.com/slackermedia/bashcrawl
-
 #### **OverTheWire: Bandit**
 
 A capture-the-flag style game that teaches Linux and shell skills through progressively harder challenges.
