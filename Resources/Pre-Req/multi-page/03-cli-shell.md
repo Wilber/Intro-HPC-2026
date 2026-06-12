@@ -1,12 +1,12 @@
+## [⬅️ Back to Contents](README.md) 
+
+<br>
+
 # 03. CLI / Shell
-
-
 
 **Estimated Time:** 1 hour
 
 [Terminal Tutor](https://www.terminaltutor.com)
-
-
 
 The **Command Line Interface (CLI)**, often called the **shell** or **terminal**, is a text-based way of interacting with a computer.
 
@@ -32,6 +32,8 @@ The goal is simply to become comfortable seeing a terminal window and typing com
 
 ---
 
+<br>
+
 ### **Common Commands You’ll See**
 
 You may encounter some of these commands during the bootcamp:
@@ -53,6 +55,8 @@ Don’t worry if these look unfamiliar right now. You’ll see them again throug
 
 ---
 
+<br>
+
 ### A Quick Note About HPC
 
 One of the first things you’ll do during the bootcamp is connect to a remote computing system.
@@ -67,13 +71,13 @@ This may feel strange at first, but by the end of the week you’ll likely be na
 
 ---
 
+<br>
+
 ### Common Beginner Mistakes
 
 **“I typed a command and got an error.”**
 
 This happens to everyone. Computers are very literal and even a small typo can change the meaning of a command.
-
-
 
 **“I don’t know where I am.”**
 
@@ -85,8 +89,6 @@ pwd
 
 This displays your current location.
 
-
-
 **“I can’t find my files.”**
 
 Try:
@@ -96,8 +98,6 @@ ls
 ```
 
 This lists the files and folders in your current directory.
-
-
 
 **“The terminal seems frozen.”**
 
@@ -111,6 +111,8 @@ This stops the currently running command and is one of the most useful keyboard 
 
 ---
 
+<br>
+
 ### **Why Do People Love the Terminal?**
 
 At first, the command line can feel intimidating.
@@ -120,6 +122,8 @@ Then something interesting happens.
 You realize you can accomplish complex tasks with just a few commands, automate repetitive work, connect to powerful remote systems, and move through files faster than you ever could with a mouse.
 
 ---
+
+<br>
 
 ### **Explore Further (Optional)**
 
@@ -142,4 +146,12 @@ https://swcarpentry.github.io/shell-novice/
 A fantastic lecture series covering practical computing skills often missing from traditional coursework.
 
 https://missing.csail.mit.edu/2020/course-shell/
+
+- ](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/pytorch.ipynb)
+
+---
+
+<br>
+
+## ➡️ Next Lesson: [04. Git & Github](04-git-github.md)
 

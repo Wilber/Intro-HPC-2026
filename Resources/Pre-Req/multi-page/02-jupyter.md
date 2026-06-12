@@ -1,10 +1,10 @@
+## [⬅️ Back to Contents](README.md) 
+
+<br>
+
 # 02. Jupyter Notebooks
 
-
-
 **Estimated Time:** 30 minutes
-
-
 
 Many bootcamp projects will use **Jupyter Notebooks** as their primary interface.
 
@@ -19,8 +19,6 @@ A Jupyter Notebook combines:
 all in a single interactive document.
 
 Think of it as a laboratory notebook for computing. Instead of writing notes on paper, you write notes, code, and results together in one place.
-
-
 
 **What is the difference between Python and Jupyter?**
 
@@ -37,6 +35,8 @@ The good news is that you do **not** need to know how to create a notebook from 
 
 ---
 
+<br>
+
 ### Open a Notebook
 
 Visit:
@@ -44,8 +44,6 @@ Visit:
 https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb
 
 This launches a Jupyter Notebook directly in your browser. No installation required.
-
-
 
 ### Five Things to Try
 
@@ -99,6 +97,8 @@ You don't need to fully understand kernels yet. Just know that every notebook ha
 
 ---
 
+<br>
+
 ### Important Jupyter Shortcuts
 
 | Shortcut      | Action                   |
@@ -114,6 +114,8 @@ You don't need to fully understand kernels yet. Just know that every notebook ha
 Don't worry about memorizing these. You'll pick them up naturally during bootcamp.
 
 ---
+
+<br>
 
 ### Common Beginner Mistakes
 
@@ -137,6 +139,8 @@ This fixes more problems than you'd think.
 
 ---
 
+<br>
+
 ### Explore Further (Optional)
 
 Google Colab is a browser-based notebook environment built on many of the same ideas as Jupyter.
@@ -150,4 +154,9 @@ If you'd like more examples, check out:
 - Google Collab: [Tensorflow](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/tensorflow.ipynb)
 - Google Collab: [Pytorch](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/pytorch.ipynb)
 
+---
+
+<br>
+
+## ➡️ Next Lesson: [03. CLI/Shell](03-cli-shell.md)
 

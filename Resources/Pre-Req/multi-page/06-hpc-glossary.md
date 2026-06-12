@@ -1,8 +1,12 @@
+## [⬅️ Back to Contents](README.md) 
+
+<br>
+
 # 06. HPC Glossary
 
 Below are some common terms you’ll hear throughout the bootcamp. You do not need to memorize these definitions. Think of this page as a quick reference whenever someone uses a term that sounds unfamiliar.
 
-
+<br>
 
 ---
 

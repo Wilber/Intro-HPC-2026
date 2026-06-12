@@ -4,13 +4,9 @@
 
 # 01. Python
 
-
-
 **Estimated Time:** 1 hour
 
 [futurecoder Interactive Python Tutorial](https://futurecoder.io/course/#toc)
-
-
 
 Python is one of the most widely used programming languages in science, engineering, data analysis, machine learning, and high-performance computing. Many of the bootcamp projects use Python in some form, so becoming comfortable with the basics will make everything else feel much easier.
 
@@ -36,8 +32,6 @@ A **library** (sometimes called a package) is a collection of code written by ot
 
 Different bootcamp projects use different libraries. You do **not** need to become an expert in any of them before arriving. We simply want you to recognize their names and have a general idea of what they do.
 
-
-
 #### NumPy
 
 **What is it?** NumPy is the foundation of scientific computing in Python. It provides fast numerical operations and efficient storage for large arrays and matrices of data.
@@ -50,8 +44,6 @@ If you’re working with scientific data, simulations, machine learning, or nume
 
 - https://numpy.org/doc/stable/user/absolute_beginners.html
 
-
-
 #### Matplotlib
 
 **What is it?** Matplotlib is one of the most popular plotting and visualization libraries in Python. It allows you to create graphs, charts, histograms, scatter plots, and many other visualizations.
@@ -61,8 +53,6 @@ If you’re working with scientific data, simulations, machine learning, or nume
 **Optional Tutorials**
 
 - https://matplotlib.org/stable/users/explain/quick_start.html
-
-
 
 #### Pandas
 
@@ -77,8 +67,6 @@ It makes it easy to filter, organize, summarize, and analyze datasets.
 - https://pandas.pydata.org/docs/user_guide/10min.html
 - https://www.kaggle.com/learn/pandas
 
-
-
 #### PyTorch
 
 **What is it?** PyTorch is an open-source machine learning framework used for building and training neural networks.
@@ -91,8 +79,6 @@ Many modern artificial intelligence and deep learning applications use PyTorch, 
 
 - https://docs.pytorch.org/tutorials/beginner/basics/intro.html
 
-
-
 #### TensorFlow
 
 **What is it?** TensorFlow is another popular machine learning framework developed by Google. Like PyTorch, it is used for building and training neural networks and large-scale machine learning systems.
@@ -104,8 +90,6 @@ Different projects may use either TensorFlow or PyTorch depending on their needs
 **Optional Tutorials**
 
 - https://www.tensorflow.org/tutorials/quickstart/beginner
-
-
 
 #### Conda
 

@@ -1,12 +1,12 @@
+## [⬅️ Back to Contents](README.md) 
+
+<br>
+
 # 04. Git & GitHub
-
-
 
 **Estimated Time:** 30 minutes
 
 [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
-
-
 
 Most bootcamp projects will use **GitHub** to share code, notebooks, datasets, documentation, and project resources.
 
@@ -26,6 +26,8 @@ The lesson introduces several concepts you’ll encounter during the bootcamp:
 Don’t worry if these terms feel unfamiliar at first. By the end of the tutorial, you’ll have seen each of them in action.
 
 ---
+
+<br>
 
 ### Git vs. GitHub
 
@@ -54,6 +56,8 @@ You **don’t** need to understand every detail of Git before the bootcamp. We s
 
 ---
 
+<br>
+
 ### **Explore Further (Optional)**
 
 If you’d like to learn more before the bootcamp, GitHub offers several additional interactive lessons.
@@ -61,6 +65,14 @@ If you’d like to learn more before the bootcamp, GitHub offers several additio
 - Introduction to Git: https://github.com/skills/introduction-to-git
 - Review Pull Requests: https://github.com/skills/review-pull-requests
 - Resolve Merge Conflicts: https://github.com/skills/resolve-merge-conflicts
+
+- ](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/pytorch.ipynb)
+
+---
+
+<br>
+
+## ➡️ [05. Cheat Sheets](05-cheatsheets.md)
 
 
 
