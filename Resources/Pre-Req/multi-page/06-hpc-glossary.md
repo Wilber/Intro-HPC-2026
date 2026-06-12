@@ -52,6 +52,26 @@ Conda helps prevent software conflicts between projects.
 
 ------
 
+#### **CPU (Central Processing Unit)**
+
+The primary processor in a computer that performs calculations and executes instructions.
+
+CPUs are designed to handle a wide variety of tasks and are excellent at performing complex operations one step at a time.
+
+Many HPC systems contain thousands of CPUs working together to solve large scientific and engineering problems.
+
+------
+
+#### **Dataset**
+
+A collection of related data used for analysis, visualization, simulations, or machine learning.
+
+Datasets can take many forms, including spreadsheets, databases, images, text documents, sensor readings, or scientific measurements.
+
+Many bootcamp projects involve exploring, analyzing, or building models using datasets.
+
+------
+
 #### **Environment**
 
 An isolated collection of software packages and settings.
@@ -124,6 +144,38 @@ Most HPC systems run Linux.
 
 ------
 
+#### LLM (Large Language Model)
+
+A type of artificial intelligence model trained on massive amounts of text data.
+
+LLMs learn patterns in language and can generate text, answer questions, summarize information, write code, and assist with research tasks.
+
+Examples include ChatGPT, GitHub Copilot, and many modern AI assistants.
+
+LLMs are built using neural networks and are one application of machine learning.
+
+---
+
+#### Machine Learning
+
+A field of computer science that focuses on teaching computers to learn patterns from data.
+
+Instead of explicitly programming every rule, a machine learning model learns from examples and can make predictions or decisions based on new data.
+
+Examples include image recognition, language translation, recommendation systems, and scientific data analysis.
+
+------
+
+#### **Machine Learning Framework**
+
+A software toolkit that helps developers build, train, and deploy machine learning models.
+
+Machine learning frameworks provide tools for working with data, training models, running calculations on GPUs, and evaluating results.
+
+PyTorch and TensorFlow are two of the most popular machine learning frameworks.
+
+---
+
 #### **Markdown**
 
 A lightweight formatting language used to create formatted text using plain text syntax.
@@ -140,6 +192,16 @@ Many projects use Matplotlib to explore data and communicate results.
 
 ------
 
+#### Neural Network
+
+A type of machine learning model inspired by the structure of the human brain.
+
+Neural networks learn by processing data through interconnected layers of artificial “neurons.”
+
+They are commonly used in image recognition, speech processing, large language models (LLMs), scientific simulations, and many modern AI applications.
+
+---
+
 #### **Node**
 
 An individual computer within an HPC cluster.
@@ -155,6 +217,14 @@ A Python library used for fast numerical computing and working with arrays and m
 Many scientific computing, machine learning, and data analysis tools are built on top of NumPy.
 
 ------
+
+#### **Open Source**
+
+Software whose source code is publicly available for anyone to view, use, modify, and share.
+
+Many of the tools used throughout the bootcamp—including Python, Jupyter, NumPy, PyTorch, and TensorFlow—are open-source projects developed by communities of researchers, developers, and organizations around the world.
+
+---
 
 #### **Pandas**
 
