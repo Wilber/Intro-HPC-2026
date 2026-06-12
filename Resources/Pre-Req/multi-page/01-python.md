@@ -1,3 +1,7 @@
+## [⬅️ Back to Contents](README.md) 
+
+<br>
+
 # 01. Python
 
 
@@ -21,6 +25,8 @@ From there, work through the lessons until you reach the end of the **For Loops*
 You’re welcome to continue beyond that if you’re having fun, but completing through For Loops will provide a strong foundation for the bootcamp.
 
 ---
+
+<br>
 
 ## Libraries and Packages
 
@@ -117,6 +123,8 @@ For example, one project might need Python 3.10 while another needs Python 3.12.
 
 ---
 
+<br>
+
 #### Machine Learning (Optional)
 
 Python is widely used in machine learning, artificial intelligence, and data science.
@@ -126,4 +134,12 @@ If you’re curious about how some of these libraries come together in practice,
 **Optional Tutorial**
 
 - https://www.kaggle.com/learn/intro-to-machine-learning
+
+---
+
+<br>
+
+## ➡️ Next Lesson: [02. Jupyter Notebooks](02-jupyter.md)
+
+
 

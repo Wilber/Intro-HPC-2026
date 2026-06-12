@@ -14,7 +14,7 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 ---
 
-
+<br>
 
 ## Contents
 
@@ -36,7 +36,7 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 ---
 
-
+<br>
 
 ## Prep Checklist
 
@@ -50,7 +50,7 @@ Before the bootcamp begins, make sure you've:
 
 ---
 
-
+<br>
 
 ## 00. Pre-Assessment [Start Here]
 
