@@ -14,7 +14,7 @@ Instead of clicking buttons and folders with a mouse, you type commands to navig
 
 While that might sound old-fashioned, the command line remains one of the most powerful tools in computing and is the primary way many researchers interact with HPC systems.
 
-If you’ve never used a terminal before, don’t worry. Nearly everyone arrives at bootcamp with different levels of experience, and many participants are seeing the shell for the very first time.
+If you’ve never used a terminal before, don’t worry. Nearly everyone arrives at the bootcamp with different levels of experience, and many participants are seeing the shell for the very first time.
 
 Terminal Tutor is a fantastic interactive resource that runs entirely in your browser and teaches the fundamentals through hands-on practice.
 
@@ -34,7 +34,7 @@ The goal is simply to become comfortable seeing a terminal window and typing com
 
 ### **Common Commands You’ll See**
 
-You may encounter some of these commands during bootcamp:
+You may encounter some of these commands during the bootcamp:
 
 | **Command** | **What It Does**                  |
 | ----------- | --------------------------------- |
@@ -55,7 +55,7 @@ Don’t worry if these look unfamiliar right now. You’ll see them again throug
 
 ### A Quick Note About HPC
 
-One of the first things you’ll do during bootcamp is connect to a remote computing system.
+One of the first things you’ll do during the bootcamp is connect to a remote computing system.
 
 Unlike a personal laptop, HPC systems are often accessed through a terminal session using a command called:
 

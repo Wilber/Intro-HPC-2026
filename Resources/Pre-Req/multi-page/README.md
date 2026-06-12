@@ -4,7 +4,7 @@ Hello!
 
 This Prep Pack is designed to help you get comfortable with some of the tools and concepts you’ll encounter during the Intro to HPC Bootcamp. Participants come from many different backgrounds and experience levels, so don’t worry if some of these topics are completely new to you.
 
-The goal is **not** to become an expert before bootcamp.
+The goal is **not** to become an expert before the bootcamp.
 
 The goal is simply to become familiar enough with the tools that when someone says “open a Jupyter notebook,” “clone a GitHub repository,” or “run this command in the terminal,” you’ll think: “Hey! I’ve seen that before.”
 
@@ -40,7 +40,7 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 ## Prep Checklist
 
-Before bootcamp begins, make sure you've:
+Before the bootcamp begins, make sure you've:
 
 - [ ] Completed the Python self-assessment
 - [ ] Worked through FutureCoder through the For Loops section
@@ -66,7 +66,7 @@ This short assessment consists of 26 questions covering Python fundamentals, Jup
 
 The purpose is **not** to earn a high score.
 
-Instead, think of it as a map. It can help identify areas where you already feel comfortable and areas where you may want a little extra practice before bootcamp begins.
+Instead, think of it as a map. It can help identify areas where you already feel comfortable and areas where you may want a little extra practice before the bootcamp begins.
 
 Pay particular attention to the sections on:
 

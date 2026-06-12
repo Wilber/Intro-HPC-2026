@@ -16,7 +16,7 @@ You’ll need to create a free GitHub account (or log into an existing one) befo
 
 The GitHub Skills lessons are interactive, beginner-friendly, and feature a helpful sidekick that guides you through the exercises.
 
-The lesson introduces several concepts you’ll encounter during bootcamp:
+The lesson introduces several concepts you’ll encounter during the bootcamp:
 
 - Repositories
 - Branches
@@ -50,13 +50,13 @@ you’ve already experienced the problem Git was invented to solve.
 
 It provides a place to store repositories online, collaborate with teammates, track issues, review code, and manage projects. We're in a repo, right now!
 
-You **don’t** need to understand every detail of Git before bootcamp. We simply want you to recognize the tools and basic workflow.
+You **don’t** need to understand every detail of Git before the bootcamp. We simply want you to recognize the tools and basic workflow.
 
 ---
 
 ### **Explore Further (Optional)**
 
-If you’d like to learn more before bootcamp, GitHub offers several additional interactive lessons.
+If you’d like to learn more before the bootcamp, GitHub offers several additional interactive lessons.
 
 - Introduction to Git: https://github.com/skills/introduction-to-git
 - Review Pull Requests: https://github.com/skills/review-pull-requests

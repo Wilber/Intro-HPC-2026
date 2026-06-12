@@ -4,7 +4,7 @@ Hello!
 
 This Prep Pack is designed to help you get comfortable with some of the tools and concepts you’ll encounter during the Intro to HPC Bootcamp. Participants come from many different backgrounds and experience levels, so don’t worry if some of these topics are completely new to you.
 
-The goal is **not** to become an expert before bootcamp.
+The goal is **not** to become an expert before the bootcamp.
 
 The goal is simply to become familiar enough with the tools that when someone says “open a Jupyter notebook,” “clone a GitHub repository,” or “run this command in the terminal,” you’ll think: “Hey! I’ve seen that before.”
 
@@ -37,7 +37,7 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 ## Prep Checklist
 
-Before bootcamp begins, make sure you've:
+Before the bootcamp begins, make sure you've:
 
 - [ ] Completed the Python self-assessment
 - [ ] Worked through FutureCoder through the For Loops section
@@ -62,7 +62,7 @@ This short assessment consists of 26 questions covering Python fundamentals, Jup
 
 The purpose is **not** to earn a high score.
 
-Instead, think of it as a map. It can help identify areas where you already feel comfortable and areas where you may want a little extra practice before bootcamp begins.
+Instead, think of it as a map. It can help identify areas where you already feel comfortable and areas where you may want a little extra practice before the bootcamp begins.
 
 Pay particular attention to the sections on:
 
@@ -240,7 +240,7 @@ Think of it like:
 - Python = the language
 - Jupyter = the notebook you write it in
 
-The good news is that you do **not** need to know how to create a notebook from scratch before bootcamp. Most project leads will provide notebooks for you. Your goal is simply to become comfortable opening a notebook, running code, and making small changes.
+The good news is that you do **not** need to know how to create a notebook from scratch. Most project leads will provide notebooks for you. Your goal is simply to become comfortable opening a notebook, running code, and making small changes.
 
 ---
 
@@ -375,7 +375,7 @@ Instead of clicking buttons and folders with a mouse, you type commands to navig
 
 While that might sound old-fashioned, the command line remains one of the most powerful tools in computing and is the primary way many researchers interact with HPC systems.
 
-If you’ve never used a terminal before, don’t worry. Nearly everyone arrives at bootcamp with different levels of experience, and many participants are seeing the shell for the very first time.
+If you’ve never used a terminal before, don’t worry. Nearly everyone arrives at the bootcamp with different levels of experience, and many participants are seeing the shell for the very first time.
 
 Terminal Tutor is a fantastic interactive resource that runs entirely in your browser and teaches the fundamentals through hands-on practice.
 
@@ -395,7 +395,7 @@ The goal is simply to become comfortable seeing a terminal window and typing com
 
 ### Common Commands You’ll See
 
-You may encounter some of these commands during bootcamp:
+You may encounter some of these commands during the bootcamp:
 
 | **Command** | **What It Does**                  |
 | ----------- | --------------------------------- |
@@ -416,7 +416,7 @@ Don’t worry if these look unfamiliar right now. You’ll see them again throug
 
 ### A Quick Note About HPC
 
-One of the first things you’ll do during bootcamp is connect to a remote computing system.
+One of the first things you’ll do during the bootcamp is connect to a remote computing system.
 
 Unlike a personal laptop, HPC systems are often accessed through a terminal session using a command called:
 
@@ -530,7 +530,7 @@ You’ll need to create a free GitHub account (or log into an existing one) befo
 
 The GitHub Skills lessons are interactive, beginner-friendly, and feature a helpful sidekick that guides you through the exercises.
 
-The lesson introduces several concepts you’ll encounter during bootcamp:
+The lesson introduces several concepts you’ll encounter during the bootcamp:
 
 - Repositories
 - Branches
@@ -564,13 +564,13 @@ you’ve already experienced the problem Git was invented to solve.
 
 It provides a place to store repositories online, collaborate with teammates, track issues, review code, and manage projects. We're in a repo, right now!
 
-You **don’t** need to understand every detail of Git before bootcamp. We simply want you to recognize the tools and basic workflow.
+You **don’t** need to understand every detail of Git before the bootcamp. We simply want you to recognize the tools and basic workflow.
 
 ---
 
 ### Explore Further (Optional)
 
-If you’d like to learn more before bootcamp, GitHub offers several additional interactive lessons.
+If you’d like to learn more before the bootcamp, GitHub offers several additional interactive lessons.
 
 - Introduction to Git: https://github.com/skills/introduction-to-git
 - Review Pull Requests: https://github.com/skills/review-pull-requests

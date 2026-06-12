@@ -33,7 +33,7 @@ Think of it like:
 - Python = the language
 - Jupyter = the notebook you write it in
 
-The good news is that you do **not** need to know how to create a notebook from scratch before bootcamp. Most project leads will provide notebooks for you. Your goal is simply to become comfortable opening a notebook, running code, and making small changes.
+The good news is that you do **not** need to know how to create a notebook from scratch. Most project leads will provide notebooks for you. Your goal is simply to become comfortable opening a notebook, running code, and making small changes.
 
 ---
 
