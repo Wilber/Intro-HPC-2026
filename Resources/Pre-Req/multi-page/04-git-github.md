@@ -66,7 +66,7 @@ If you’d like to learn more before the bootcamp, GitHub offers several additio
 - Review Pull Requests: https://github.com/skills/review-pull-requests
 - Resolve Merge Conflicts: https://github.com/skills/resolve-merge-conflicts
 
-- ](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/pytorch.ipynb)
+- Git Skills Directory: https://learn.github.com/skills
 
 ---
 
