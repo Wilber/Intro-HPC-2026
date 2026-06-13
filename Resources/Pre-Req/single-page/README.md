@@ -41,11 +41,15 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 Short on time? Here are the key resources in one place. For additional context and explanations, check out the lessons above.
 
-- [ ] [Complete the Python Self-Assessment](https://elearning.unidata.ucar.edu/metpy/PythonReadiness/selfassessment/)
-- [ ] [Work through FutureCoder from "Introducing the Shell" through the "For Loops" section](https://futurecoder.io/course/#toc)
-- [ ] [Open and interact with a Jupyter Notebook](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb)
-- [ ] [Complete the Terminal Tutor lessons](https://www.terminaltutor.com)
-- [ ] [Complete GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
+1. [Complete the Python Self-Assessment](https://elearning.unidata.ucar.edu/metpy/PythonReadiness/selfassessment/)
+
+2. [Work through FutureCoder from "Introducing the Shell" through the "For Loops" section](https://futurecoder.io/course/#toc)
+
+3. [Open and interact with a Jupyter Notebook](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb)
+
+4. [Complete the Terminal Tutor lessons](https://www.terminaltutor.com)
+
+5. [Complete GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
 
 ---
 
