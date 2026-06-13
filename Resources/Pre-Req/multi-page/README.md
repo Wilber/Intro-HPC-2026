@@ -72,16 +72,6 @@ The purpose is **not** to earn a high score.
 
 Instead, think of it as a map. It can help identify areas where you already feel comfortable and areas where you may want a little extra practice before the bootcamp begins.
 
-Pay particular attention to the sections on:
-
-- Python syntax
-- Variables
-- Loops
-- Functions
-- Jupyter notebooks
-
-These topics appear frequently throughout the bootcamp.
-
 If you don’t know an answer, that’s perfectly okay. That’s what the bootcamp is for.
 
 <br>
