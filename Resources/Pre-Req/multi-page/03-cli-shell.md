@@ -147,8 +147,6 @@ A fantastic lecture series covering practical computing skills often missing fro
 
 https://missing.csail.mit.edu/2020/course-shell/
 
-- ](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/pytorch.ipynb)
-
 ---
 
 <br>
