@@ -74,8 +74,8 @@ Instead, think of it as a map. It can help identify areas where you already feel
 
 If you don’t know an answer, that’s perfectly okay. That’s what the bootcamp is for.
 
-<br>
-
 ---
+
+<br>
 
 ## ➡️ Next Lesson: [01. Python](01-python.md) 
