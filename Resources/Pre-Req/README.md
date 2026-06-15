@@ -8,13 +8,13 @@ The goal is **not** to become an expert before the bootcamp.
 
 The goal is simply to become familiar enough with the tools that when someone says “open a Jupyter notebook,” “clone a GitHub repository,” or “run this command in the terminal,” you’ll think: “Hey! I’ve seen that before.”
 
-Think of this prep work as a guided tour of the HPC landscape before we start the journey together. Explore as much or as little as you need. If you’re already comfortable with a topic, feel free to skim it. If something is brand new, take your time and don’t be afraid to use hints, solutions, or additional resources.
+Think of this prep pack as a guided tour of the HPC landscape before we start the journey together. Explore as much or as little as you need. If you’re already comfortable with a topic, feel free to skim it. If something is brand new, take your time and don’t be afraid to use hints, solutions, or additional resources.
 
 Most importantly: **you belong here, even if you’re a complete beginner.**
 
 <br>
 
-> If you run into any issues, broken links, or have questions while working through these materials, feel free to contact Rene at <rmontelongo@anl.gov>.
+> If you have any questions, suggestions, or run into any issues, feel free to contact Rene at <rmontelongo@anl.gov>.
 
 ---
 
@@ -71,8 +71,6 @@ This short assessment consists of 26 questions covering Python fundamentals, Jup
 The purpose is **not** to earn a high score.
 
 Instead, think of it as a map. It can help identify areas where you already feel comfortable and areas where you may want a little extra practice before the bootcamp begins.
-
-If you don’t know an answer, that’s perfectly okay. That’s what the bootcamp is for.
 
 ---
 
