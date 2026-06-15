@@ -8,7 +8,7 @@ The goal is **not** to become an expert before the bootcamp.
 
 The goal is simply to become familiar enough with the tools that when someone says “open a Jupyter notebook,” “clone a GitHub repository,” or “run this command in the terminal,” you’ll think: “Hey! I’ve seen that before.”
 
-Think of this prep pack as a guided tour of the HPC landscape before we start the journey together. Explore as much or as little as you need. If you’re already comfortable with a topic, feel free to skim it. If something is brand new, take your time and don’t be afraid to use hints, solutions, or additional resources.
+Explore as much or as little as you need. If you’re already comfortable with a topic, feel free to skim it. If something is brand new, take your time and don’t be afraid to use hints or solutions.
 
 Most importantly: **you belong here, even if you’re a complete beginner.**
 
@@ -17,6 +17,8 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 > If you have any questions, suggestions, or run into any issues, feel free to contact Rene at <rmontelongo@anl.gov>.
 
 ---
+
+<br>
 
 ## Contents
 
@@ -38,6 +40,8 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 ---
 
+<br>
+
 ## Quick Start Guide
 
 Short on time? Here are the key resources in one place. For additional context and explanations, check out the lessons above.
@@ -58,13 +62,9 @@ Short on time? Here are the key resources in one place. For additional context a
 
 ## 00. Pre-Assessment [Start Here]
 
-
-
 **Estimated Time:** 30 minutes
 
 [Python Skills Self-Assessment](https://elearning.unidata.ucar.edu/metpy/PythonReadiness/selfassessment/)
-
-
 
 This short assessment consists of 26 questions covering Python fundamentals, Jupyter notebooks, and common programming concepts.
 
