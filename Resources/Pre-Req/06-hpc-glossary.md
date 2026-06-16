@@ -292,6 +292,14 @@ Many people use the terms terminal and shell interchangeably.
 
 ------
 
+#### **Visualization**
+
+A graphical representation of data, such as a chart, graph, heatmap, or plot.
+
+Visualizations help people understand patterns, trends, and relationships that may be difficult to see from raw data alone.
+
+---
+
 #### **Zsh**
 
 The default shell on modern versions of macOS.

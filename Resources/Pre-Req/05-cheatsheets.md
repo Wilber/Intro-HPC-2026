@@ -20,26 +20,6 @@ The resources below are handy references that you can bookmark and return to thr
 
 <br>
 
-**One Final Thought**
-
-Nobody arrives at the Intro to HPC Bootcamp knowing everything.
-
-The purpose of this Prep Pack was simply to introduce some of the tools and vocabulary you’ll encounter so that your week can focus on learning, collaborating, and exploring problems rather than figuring out what a terminal window is.
-
-Be curious.
-
-Ask questions.
-
-Experiment.
-
-*Make mistakes.*
-
-That’s how we all learn!
-
----
-
-<br>
-
 ## ➡️ [06. HPC Glossary](06-hpc-glossary.md)
 
 

@@ -4,15 +4,32 @@
 
 # 03. CLI / Shell
 
+#### TL;DR
+
 **Estimated Time:** 1 hour
 
+**What you’ll learn:**
+
+- How to navigate files and folders from the command line
+- Common terminal commands
+- How to connect to remote systems
+- Basic command-line troubleshooting
+
+**Why this matters for HPC:**
+
+Most HPC systems are accessed through a terminal. Learning a few basic command-line skills will make it much easier to connect to computing resources, manage files, and follow project instructions during the bootcamp.
+
+---
+
 [Terminal Tutor](https://www.terminaltutor.com)
+
+<!-- TODO: Screenshot of Terminal Tutor interface -->
+
+![Terminal Tutor Overview](assets/images/terminal-tutor-overview.png)
 
 The **Command Line Interface (CLI)**, often called the **shell** or **terminal**, is a text-based way of interacting with a computer.
 
 Instead of clicking buttons and folders with a mouse, you type commands to navigate files, launch programs, move data, and connect to remote systems.
-
-While that might sound old-fashioned, the command line remains one of the most powerful tools in computing and is the primary way many researchers interact with HPC systems.
 
 If you’ve never used a terminal before, don’t worry. Nearly everyone arrives at the bootcamp with different levels of experience, and many participants are seeing the shell for the very first time.
 
@@ -26,9 +43,7 @@ Work through the lessons until you feel comfortable with:
 - Moving files
 - Running simple commands
 
-You do **not** need to memorize every command.
-
-The goal is simply to become comfortable seeing a terminal window and typing commands into it.
+You do **not** need to memorize every command. The goal is simply to become comfortable seeing a terminal window and typing commands into it.
 
 ---
 
@@ -38,18 +53,23 @@ The goal is simply to become comfortable seeing a terminal window and typing com
 
 You may encounter some of these commands during the bootcamp:
 
-| **Command** | **What It Does**                  |
-| ----------- | --------------------------------- |
-| `pwd`       | Shows your current location       |
-| `ls`        | Lists files and folders           |
-| `cd`        | Changes directories               |
-| `mkdir`     | Creates a new folder              |
-| `cp`        | Copies files                      |
-| `mv`        | Moves or renames files            |
-| `rm`        | Deletes files                     |
-| `cat`       | Displays a file’s contents        |
-| `ssh`       | Connects to a remote system       |
-| `history`   | Shows previously entered commands |
+| **Command** | **What It Does**                    |
+| ----------- | ----------------------------------- |
+| `pwd`       | Shows your current location         |
+| `ls`        | Lists files and folders             |
+| `cd`        | Changes directories                 |
+| `mkdir`     | Creates a new folder                |
+| `cp`        | Copies files                        |
+| `mv`        | Moves or renames files              |
+| `rm`        | Deletes files                       |
+| `cat`       | Displays a file’s contents          |
+| `ssh`       | Connects to a remote system         |
+| `history`   | Shows previously entered commands   |
+| `Ctrl + C`  | Stops the currently running command |
+
+<!-- TODO: GIF demonstrating pwd, ls, and cd -->
+
+![Basic Terminal Navigation](assets/gifs/terminal-navigation.gif)
 
 Don’t worry if these look unfamiliar right now. You’ll see them again throughout the bootcamp.
 
@@ -113,25 +133,13 @@ This stops the currently running command and is one of the most useful keyboard 
 
 <br>
 
-### **Why Do People Love the Terminal?**
-
-At first, the command line can feel intimidating.
-
-Then something interesting happens.
-
-You realize you can accomplish complex tasks with just a few commands, automate repetitive work, connect to powerful remote systems, and move through files faster than you ever could with a mouse.
-
----
-
-<br>
-
 ### **Explore Further (Optional)**
 
 If you find yourself enjoying the shell, here are some excellent resources that go beyond the basics.
 
 #### **OverTheWire: Bandit**
 
-A capture-the-flag style game that teaches Linux and shell skills through progressively harder challenges.
+A capture-the-flag style game that teaches [Linux](06-hpc-glossary.md#linux) and shell skills through progressively harder challenges.
 
 https://overthewire.org/wargames/bandit/
 

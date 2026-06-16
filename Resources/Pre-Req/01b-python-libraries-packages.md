@@ -12,9 +12,9 @@ Different bootcamp projects use different libraries. You do **not** need to beco
 
 #### NumPy
 
-**What is it?** NumPy is the foundation of scientific computing in Python. It provides fast numerical operations and efficient storage for large arrays and matrices of data.
+**What is it?** NumPy is the foundation of scientific computing in [Python](06-hpc-glossary.md#python). It provides fast numerical operations and efficient storage for large arrays and matrices of data.
 
-If you’re working with scientific data, simulations, machine learning, or numerical calculations, chances are NumPy is somewhere under the hood.
+If you’re working with scientific data, simulations, [machine learning](06-hpc-glossary.md#machine-learning), or numerical calculations, chances are NumPy is somewhere under the hood.
 
 **Think of it as:** Python’s high-performance calculator for large amounts of data.
 
@@ -24,7 +24,7 @@ If you’re working with scientific data, simulations, machine learning, or nume
 
 #### Matplotlib
 
-**What is it?** Matplotlib is one of the most popular plotting and visualization libraries in Python. It allows you to create graphs, charts, histograms, scatter plots, and many other visualizations.
+**What is it?** Matplotlib is one of the most popular plotting and [visualization](06-hpc-glossary.md#visualization) libraries in Python. It allows you to create graphs, charts, histograms, scatter plots, and many other visualizations.
 
 **Think of it as:** Python’s graphing and chart-making toolkit.
 
@@ -36,7 +36,7 @@ If you’re working with scientific data, simulations, machine learning, or nume
 
 **What is it?** Pandas is a library designed for working with structured data such as spreadsheets, CSV files, and tables.
 
-It makes it easy to filter, organize, summarize, and analyze datasets.
+It makes it easy to filter, organize, summarize, and analyze [datasets](06-hpc-glossary.md#dataset).
 
 **Think of it as:** Excel or Google Sheets, but programmable.
 
@@ -47,7 +47,7 @@ It makes it easy to filter, organize, summarize, and analyze datasets.
 
 #### PyTorch
 
-**What is it?** PyTorch is an open-source machine learning framework used for building and training neural networks.
+**What is it?** PyTorch is an [open-source](06-hpc-glossary.md#open-source) [machine learning framework](06-hpc-glossary.md#machine-learning-framework) used for building and training [neural networks](06-hpc-glossary.md#neural-network).
 
 Many modern artificial intelligence and deep learning applications use PyTorch, including some scientific computing and research workflows.
 

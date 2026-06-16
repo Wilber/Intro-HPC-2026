@@ -4,7 +4,22 @@
 
 # 02. Jupyter Notebooks
 
+#### TL;DR
+
 **Estimated Time:** 30 minutes
+
+**What you’ll learn:**
+
+- What a Jupyter Notebook is
+- How to run and edit notebook cells
+- Common notebook shortcuts
+- How to troubleshoot simple notebook issues
+
+**Why this matters for HPC:**
+
+Many bootcamp projects use Jupyter Notebooks to share code, lessons, visualizations, and scientific workflows. Becoming comfortable with notebooks will make it much easier to follow project materials and experiment with code.
+
+---
 
 Many bootcamp projects will use **Jupyter Notebooks** as their primary interface.
 
@@ -22,7 +37,7 @@ Think of it as a laboratory notebook for computing. Instead of writing notes on 
 
 **What is the difference between Python and Jupyter?**
 
-Python is a programming language.
+[Python](06-hpc-glossary.md#python) is a programming language.
 
 Jupyter Notebook is a tool for writing and running Python code interactively.
 
@@ -38,6 +53,10 @@ The good news is that you do **not** need to know how to create a notebook from 
 <br>
 
 ### Open a Notebook
+
+<!-- TODO: Screenshot of Try Jupyter landing page -->
+
+![Jupyter Notebook Interface](assets/images/jupyter-notebook-overview.png)
 
 Visit:
 
@@ -63,15 +82,21 @@ This executes the code and moves to the next cell.
 
 You will use this shortcut constantly during bootcamp.
 
+<!-- TODO: GIF showing Shift+Enter executing a cell -->
+
+![Running a Cell](assets/gifs/jupyter-run-cell.gif)
+
 **3. Change Something**
 
-Find a code cell. [change numbers in the plot celll]
+Find the plotting example in the notebook and change one of the numbers.
 
-Modify a number or some text and run it again.
-
-Notice how the output changes.
+Then run the cell again and notice how the output changes.
 
 Congratulations! You just edited and executed code.
+
+<!-- TODO: GIF showing changed plot -->
+
+![Changing a Cell](assets/gifs/jupyter-change-cell.gif)
 
 **4. Run Cells in Order**
 
@@ -87,13 +112,17 @@ When in doubt: **Run cells from top to bottom.**
 
 **5. Restart the Kernel**
 
-A **kernel** is the program that actually runs your code.
+A **[kernel](06-hpc-glossary.md#kernel)** is the program that actually runs your code.
 
 Think of it as the notebook's engine.
 
 If something seems broken or out of sync, restarting the kernel often fixes the issue.
 
 You don't need to fully understand kernels yet. Just know that every notebook has one.
+
+<!-- TODO: Screenshot of Restart the Kernal Button -->
+
+![Restart the Kernel](assets/images/restart-the-kernel.png)
 
 ---
 
@@ -143,16 +172,16 @@ This fixes more problems than you'd think.
 
 ### Explore Further (Optional)
 
-Google Colab is a browser-based notebook environment built on many of the same ideas as Jupyter.
+[Google Colab](06-hpc-glossary.md#google-colab) is a browser-based notebook environment built on many of the same ideas as Jupyter.
 
 If you'd like more examples, check out:
 
-- Google Collab [Python Skills](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=7DmKVUFaL9gQ)
-- Google Collab: [Numpy](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/numpy.ipynb#scrollTo=y1LvV56hB0PS)
-- Google Collab: [Matplotlib](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/matplotlib.ipynb)
-- Google Collab: [Pandas ](https://colab.research.google.com/drive/1a4sbKG7jOJGn4oeonQPA8XjJm7OYgcdX)
-- Google Collab: [Tensorflow](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/tensorflow.ipynb)
-- Google Collab: [Pytorch](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/pytorch.ipynb)
+- Google Colab [Python Skills](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=7DmKVUFaL9gQ)
+- Google Colab: [Numpy](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/numpy.ipynb#scrollTo=y1LvV56hB0PS)
+- Google Colab: [Matplotlib](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/matplotlib.ipynb)
+- Google Colab: [Pandas ](https://colab.research.google.com/drive/1a4sbKG7jOJGn4oeonQPA8XjJm7OYgcdX)
+- Google Colab: [Tensorflow](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/tensorflow.ipynb)
+- Google Colab: [Pytorch](https://colab.research.google.com/github/amanchadha/aman-ai/blob/master/pytorch.ipynb)
 
 ---
 

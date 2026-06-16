@@ -4,11 +4,28 @@
 
 # 01. Python
 
+#### TL;DR
+
 **Estimated Time:** 1 hour
+
+**What you'll learn:**
+- Basic Python syntax
+- How to run simple code
+- How loops and functions work
+
+**Why this matters for HPC:**
+
+Python is commonly used to prepare data, run analysis, launch workflows, and work with scientific computing tools.
+
+---
 
 [futurecoder Interactive Python Tutorial](https://futurecoder.io/course/#toc)
 
-Python is one of the most widely used programming languages in science, engineering, data analysis, machine learning, and high-performance computing. Many of the bootcamp projects use Python in some form, so becoming comfortable with the basics will make everything else feel much easier.
+<!-- TODO: Screenshot of futercoder Python interface -->
+
+![futercoder Python Interface](assets/images/futurecoder-python-overview.png)
+
+Python is one of the most widely used programming languages in science, engineering, [machine learning](06-hpc-glossary.md#machine-learning), and high-performance computing. Many of the bootcamp projects use Python in some form, so becoming comfortable with the basics will make everything else feel much easier.
 
 The FutureCoder lessons are interactive, browser-based, and beginner-friendly. They allow you to experiment with code directly in your web browser without installing anything.
 
@@ -18,7 +35,7 @@ Start with: [Introducing The Shell](https://futurecoder.io/course/#IntroducingTh
 
 From there, work through the lessons until you reach the end of the **For Loops** section.
 
-You’re welcome to continue beyond that if you’re having fun, but completing through For Loops will provide a strong foundation for the bootcamp.
+You’re welcome to continue beyond that if you’re having fun, but completing through For Loops will provide a great foundation for the bootcamp.
 
 ---
 
@@ -32,13 +49,13 @@ A **library** (sometimes called a package) is a collection of code written by ot
 
 For example:
 
-- Need to work with large datasets? There’s a library for that.
+- Need to work with large [datasets](06-hpc-glossary.md#dataset)? There’s a library for that.
 - Need to create graphs and visualizations? There’s a library for that.
 - Need to train an AI model? There’s a library for that too!
 
 Different bootcamp projects use different libraries, and you do **not** need to become an expert in any of them before arriving.
 
-For now, it’s enough to know that these tools exist and that Python’s library ecosystem is one of the reasons it is so popular in science, engineering, and high-performance computing.
+For now, it’s enough to know that these tools exist and that Python’s library ecosystem is one of the reasons it is so popular.
 
 If you’d like to learn more about some of the most common libraries used throughout the bootcamp, check out:
 
