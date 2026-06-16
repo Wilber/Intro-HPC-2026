@@ -31,7 +31,7 @@ Before the bootcamp begins, we’d like you to become familiar with the basics o
 
 You’ll need to create a free GitHub account (or log into an existing one) before starting the lesson.
 
-The GitHub Skills lessons are interactive, beginner-friendly, and feature a helpful sidekick that guides you through the exercises.
+The GitHub Skills lessons are interactive, beginner-friendly, and feature a cute sidekick that guides you through the exercises.
 
 The lesson introduces several concepts you’ll encounter during the bootcamp:
 
