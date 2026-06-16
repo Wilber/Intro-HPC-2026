@@ -23,9 +23,7 @@ Many bootcamp projects use GitHub to share code, [notebooks](06-hpc-glossary.md#
 
 [GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
 
-<!-- TODO: Screenshot of Github Skills interface -->
-
-![Github Skills Overview](assets/images/github-skills-overview.png)
+[![Github Skills Overview](assets/images/github-skills-overview.png)](https://github.com/skills/introduction-to-github)
 
 Most bootcamp projects will use **GitHub** to share code, notebooks, [datasets](06-hpc-glossary.md#dataset), documentation, and project resources.
 

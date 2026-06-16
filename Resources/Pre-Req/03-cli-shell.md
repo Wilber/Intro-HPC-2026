@@ -23,9 +23,7 @@ Most HPC systems are accessed through a terminal. Learning a few basic command-l
 
 [Terminal Tutor](https://www.terminaltutor.com)
 
-<!-- TODO: Screenshot of Terminal Tutor interface -->
-
-![Terminal Tutor Overview](assets/images/terminal-tutor-overview.png)
+[![Terminal Tutor Overview](assets/images/terminal-tutor-overview.png)](https://www.terminaltutor.com)
 
 The **Command Line Interface (CLI)**, often called the **shell** or **terminal**, is a text-based way of interacting with a computer.
 
@@ -66,8 +64,6 @@ You may encounter some of these commands during the bootcamp:
 | `ssh`       | Connects to a remote system         |
 | `history`   | Shows previously entered commands   |
 | `Ctrl + C`  | Stops the currently running command |
-
-<!-- TODO: GIF demonstrating pwd, ls, and cd -->
 
 ![Basic Terminal Navigation](assets/gifs/terminal-navigation.gif)
 

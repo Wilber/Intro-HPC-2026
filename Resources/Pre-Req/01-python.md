@@ -21,7 +21,7 @@ Python is commonly used to prepare data, run analysis, launch workflows, and wor
 
 [futurecoder Interactive Python Tutorial](https://futurecoder.io/course/#toc)
 
-![futercoder Python Interface](assets/images/futurecoder-python-overview.png)
+[![futercoder Python Interface](assets/images/futurecoder-python-overview.png)](https://futurecoder.io/course/#toc)
 
 Python is one of the most widely used programming languages in science, engineering, [machine learning](06-hpc-glossary.md#machine-learning), and high-performance computing. Many of the bootcamp projects use Python in some form, so becoming comfortable with the basics will make everything else feel much easier.
 

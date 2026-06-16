@@ -54,9 +54,7 @@ The good news is that you do **not** need to know how to create a notebook from 
 
 ### Open a Notebook
 
-<!-- TODO: Screenshot of Try Jupyter landing page -->
-
-![Jupyter Notebook Interface](assets/images/jupyter-notebook-overview.png)
+[![Jupyter Notebook Interface](assets/images/jupyter-notebook-overview.png)](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb)
 
 Visit:
 
@@ -82,8 +80,6 @@ This executes the code and moves to the next cell.
 
 You will use this shortcut constantly during bootcamp.
 
-<!-- TODO: GIF showing Shift+Enter executing a cell -->
-
 ![Running a Cell](assets/gifs/jupyter-run-cell.gif)
 
 **3. Change Something**
@@ -93,8 +89,6 @@ Find the plotting example in the notebook and change one of the numbers.
 Then run the cell again and notice how the output changes.
 
 Congratulations! You just edited and executed code.
-
-<!-- TODO: GIF showing changed plot -->
 
 ![Changing a Cell](assets/gifs/jupyter-change-cell.gif)
 
@@ -119,8 +113,6 @@ Think of it as the notebook's engine.
 If something seems broken or out of sync, restarting the kernel often fixes the issue.
 
 You don't need to fully understand kernels yet. Just know that every notebook has one.
-
-<!-- TODO: Screenshot of Restart the Kernal Button -->
 
 ![Restart the Kernel](assets/images/restart-the-kernel.png)
 
