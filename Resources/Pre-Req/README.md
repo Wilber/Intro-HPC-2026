@@ -66,8 +66,6 @@ Short on time? Here are the key resources in one place. For additional context a
 
 [Python Skills Self-Assessment](https://elearning.unidata.ucar.edu/metpy/PythonReadiness/selfassessment/)
 
-<!-- TODO: Screenshot of Python Skills interface -->
-
 ![Python Skills Overview](assets/images/python-skills-overview.png)
 
 This short assessment consists of 26 questions covering Python fundamentals, Jupyter notebooks, and common programming concepts.

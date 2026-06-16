@@ -17,7 +17,7 @@
 
 **Why this matters for HPC:**
 
-Many bootcamp projects use Jupyter Notebooks to share code, lessons, visualizations, and scientific workflows. Becoming comfortable with notebooks will make it much easier to follow project materials and experiment with code.
+Many bootcamp projects use Jupyter Notebooks to share code, lessons, [visualizations](06-hpc-glossary.md#visualization), and scientific workflows. Becoming comfortable with notebooks will make it much easier to follow project materials and experiment with code.
 
 ---
 
