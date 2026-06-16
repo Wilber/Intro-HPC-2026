@@ -83,7 +83,7 @@ Unlike a personal laptop, HPC systems are often accessed through a terminal sess
 ssh
 ```
 
-This may feel strange at first, but by the end of the week you’ll likely be navigating remote systems like you’ve been doing it for years.
+This may feel strange at first, and that's totally normal. Remember, the goal isn't to memorize anything. It's just to become comfortable recognizing and using commands when you encounter them.
 
 ---
 
