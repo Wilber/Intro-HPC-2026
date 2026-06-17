@@ -4,7 +4,7 @@
 
 # 00. What is HPC?
 
-#### TL;DR
+### TL;DR
 
 **Estimated Time:** 10 minutes
 

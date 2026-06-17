@@ -4,7 +4,7 @@
 
 # 03. CLI / Shell
 
-#### TL;DR
+### TL;DR
 
 **Estimated Time:** 1 hour
 

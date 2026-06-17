@@ -4,7 +4,7 @@
 
 # 04. Git & GitHub
 
-#### TL;DR
+### TL;DR
 
 **Estimated Time:** 30 minutes
 

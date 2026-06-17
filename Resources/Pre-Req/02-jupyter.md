@@ -4,7 +4,7 @@
 
 # 02. Jupyter Notebooks
 
-#### TL;DR
+### TL;DR
 
 **Estimated Time:** 30 minutes
 
