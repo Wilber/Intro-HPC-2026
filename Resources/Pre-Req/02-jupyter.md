@@ -15,7 +15,7 @@
 - Common notebook shortcuts
 - How to troubleshoot simple notebook issues
 
-**Why this matters for HPC:**
+**Why this matters for [HPC](06-hpc-glossary.md#hpc):**
 
 Many bootcamp projects use Jupyter Notebooks to share code, lessons, [visualizations](06-hpc-glossary.md#visualization), and scientific workflows. Becoming comfortable with notebooks will make it much easier to follow project materials and experiment with code.
 

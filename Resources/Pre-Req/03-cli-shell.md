@@ -15,7 +15,7 @@
 - How to connect to remote systems
 - Basic command-line troubleshooting
 
-**Why this matters for HPC:**
+**Why this matters for [HPC](06-hpc-glossary.md#hpc):**
 
 Most HPC systems are accessed through a terminal. Learning a few basic command-line skills will make it much easier to connect to computing resources, manage files, and follow project instructions during the bootcamp.
 

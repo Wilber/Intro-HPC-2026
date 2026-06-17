@@ -9,11 +9,12 @@
 **Estimated Time:** 1 hour
 
 **What you'll learn:**
+
 - Basic Python syntax
 - How to run simple code
 - How loops and functions work
 
-**Why this matters for HPC:**
+**Why this matters for [HPC](06-hpc-glossary.md#hpc):**
 
 Python is commonly used to prepare data, run analysis, launch workflows, and work with scientific computing tools.
 
@@ -48,7 +49,7 @@ A **library** (sometimes called a package) is a collection of code written by ot
 For example:
 
 - Need to work with large [datasets](06-hpc-glossary.md#dataset)? There’s a library for that.
-- Need to create graphs and visualizations? There’s a library for that.
+- Need to create graphs and [visualizations](06-hpc-glossary.md#visualization)? There’s a library for that.
 - Need to train an AI model? There’s a library for that too!
 
 Different bootcamp projects use different libraries, and you do **not** need to become an expert in any of them before arriving.

@@ -15,7 +15,7 @@
 - Common collaboration terms such as repositories, commits, branches, and pull requests
 - The basics of version control
 
-**Why this matters for HPC:**
+**Why this matters for [HPC](06-hpc-glossary.md#hpc):**
 
 Many bootcamp projects use GitHub to share code, [notebooks](06-hpc-glossary.md#jupyter-notebook), documentation, and project resources. Understanding the basics will make it easier to access project materials and collaborate with your teammates.
 
