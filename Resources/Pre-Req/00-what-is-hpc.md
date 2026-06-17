@@ -41,11 +41,13 @@ Instead, it is typically made up of many individual computers working together.
 
 Think of it like this:
 
-**Your laptop might have a few processors working on a task.**
+**Your laptop can work on a problem using the hardware inside a single computer.**
 
 ![Computer Parts Diagram](assets/images/computer-parts-diagram.png)
 
-**A supercomputer may have thousands of processors working on the same problem at the same time.**
+**A supercomputer can use the hardware from thousands of computers working together.**
+
+<br>
 
 ![Super Computer Diagram](assets/images/supercomputer-diagram.png)
 
