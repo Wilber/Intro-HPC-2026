@@ -25,6 +25,7 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 #### Start Here
 
 - [00. Pre-Assessment](#00-pre-assessment-start-here)
+- [00. What Is HPC?](00-what-is-hpc.md)
 
 #### Lessons
 
@@ -78,4 +79,4 @@ Instead, think of it as a map. It can help identify areas where you already feel
 
 <br>
 
-## ➡️ Next Lesson: [01. Python](01-python.md) 
+## ➡️ Next: [00. What Is HPC?](00-what-is-hpc.md) 
