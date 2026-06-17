@@ -14,7 +14,7 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 <br>
 
-#### [Watch The Intro Video!](https://youtu.be/OMvCEszGgq8)
+### [Watch The Intro Video!](https://youtu.be/OMvCEszGgq8)
 
 [![Watch the Intro Video](assets/images/intro-video-thumbnail.jpeg)](https://youtu.be/OMvCEszGgq8)
 
