@@ -6,13 +6,15 @@
 
 Below are some common terms you’ll hear throughout the bootcamp. You do not need to memorize these definitions. Think of this page as a quick reference whenever someone uses a term that sounds unfamiliar.
 
-<br>
+---
 
 Don't see a term you're looking for?
 
 If you encounter a word, acronym, or concept that isn't currently defined, we'd love your help expanding the glossary.
 
 [➡️ **Submit a Glossary Suggestion**](https://forms.office.com/Pages/ResponsePage.aspx?id=haH8DPcl40mK53BNUybihewwlgWOvZRGsaaa8heyOm1UQkgxOFVZRlFIQjRFRzJPSThWUTVLMExCTi4u)
+
+<br>
 
 ---
 
