@@ -30,7 +30,6 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 #### Start Here
 
-- [00. Pre-Assessment](#00-pre-assessment-start-here)
 - [00. What Is HPC?](00-what-is-hpc.md)
 
 #### Lessons
@@ -53,33 +52,13 @@ Most importantly: **you belong here, even if you’re a complete beginner.**
 
 Short on time? Here are the key resources in one place. For additional context and explanations, check out the lessons above.
 
-1. [Complete the Python Self-Assessment](https://elearning.unidata.ucar.edu/metpy/PythonReadiness/selfassessment/)
+1. [Work through FutureCoder from "Introducing the Shell" through the "For Loops" section](https://futurecoder.io/course/#toc)
 
-2. [Work through FutureCoder from "Introducing the Shell" through the "For Loops" section](https://futurecoder.io/course/#toc)
+2. [Open and interact with a Jupyter Notebook](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb)
 
-3. [Open and interact with a Jupyter Notebook](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb)
+3. [Complete the Terminal Tutor lessons](https://www.terminaltutor.com)
 
-4. [Complete the Terminal Tutor lessons](https://www.terminaltutor.com)
-
-5. [Complete GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
-
----
-
-<br>
-
-## 00. Pre-Assessment [Start Here]
-
-**Estimated Time:** 30 minutes
-
-[Python Skills Self-Assessment](https://elearning.unidata.ucar.edu/metpy/PythonReadiness/selfassessment/)
-
-[![Python Skills Overview](assets/images/python-skills-overview.png)](https://elearning.unidata.ucar.edu/metpy/PythonReadiness/selfassessment/)
-
-This short assessment consists of 26 questions covering Python fundamentals, Jupyter notebooks, and common programming concepts.
-
-The purpose is **not** to earn a high score.
-
-Instead, think of it as a map. It can help identify areas where you already feel comfortable and areas where you may want a little extra practice before the bootcamp begins.
+4. [Complete GitHub Skills: Introduction to GitHub](https://github.com/skills/introduction-to-github)
 
 ---
 
