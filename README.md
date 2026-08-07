@@ -19,7 +19,7 @@ Use this repository as a working area to experiment with HPC concepts, examples,
 
 ## Repository Structure  
 
-**Project1–Project10**  
+**Project01–Project10**  
 Each folder contains workshop materials, example code, exercises, and guidance for a specific bootcamp project.
 
 **Resources**  
