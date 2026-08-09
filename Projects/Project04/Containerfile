@@ -1,0 +1,10 @@
+## Use the NERSC optimized pytorch container as our base layer, which itself is built upon NVIDIA's optimized container
+FROM docker.io/nersc/pytorch:26.01.01
+
+## Install python dependencies, here, just gracklepy, as in the base container,
+# we should already have ipykernel, matplotlib, numpy, scipy, h5py, scikit-learn.
+# Since the software in this container is already isolated, we don't really need
+# to worry about isolating our python dependencies within a virtual environment.#
+
+# the --break-system-packages flag is necessary, because within the container, we are running things as the 'root' (admin) user
+RUN pip install --break-system-packages [DEPENDeNCIES GO HERE]
