@@ -1,0 +1,2 @@
+# Getting Started on Perlmutter
+Learn the fundamentals of using Perlmutter, the NERSC supercomputer that will serve as the primary high-performance computing (HPC) resource throughout the bootcamp. This hands-on session will introduce essential skills for working in the HPC environment, including navigating the file system, cloning a GitHub repository, using Jupyter notebooks, and submitting and running jobs. Participants will gain the practical experience needed to confidently access computational resources and complete the hands-on exercises in subsequent bootcamp sessions
