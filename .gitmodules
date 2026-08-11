@@ -1,0 +1,3 @@
+[submodule "Tutorials/hpcbootcamp_regression_AI"]
+	path = Tutorials/hpcbootcamp_regression_AI
+	url = https://github.com/Wilber/hpcbootcamp_regression_AI
