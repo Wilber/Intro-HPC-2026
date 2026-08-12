@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH -N 1
-#SBATCH -C cpu
+#SBATCH -C gpu
 #SBATCH --time=00:05:00
 #SBATCH -q shared
 #SBATCH -A m4388
