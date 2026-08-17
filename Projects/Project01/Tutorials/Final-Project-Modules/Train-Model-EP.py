@@ -804,9 +804,9 @@ def main():
     task_id = args.task_id if args.task_id is not None else int(os.environ.get("SLURM_PROCID", 0))
     num_tasks = args.num_tasks if args.num_tasks is not None else int(os.environ.get("SLURM_NTASKS", 1))
 
-    os.environ.setdefault("REPO_PATH", "/global/cfs/cdirs/m4388/Project4/BuildingsBench")
-    os.environ.setdefault("BUILDINGS_BENCH", "/global/cfs/cdirs/m4388/Project4/Dataset")
-    os.environ.setdefault("TRANSFORM_PATH", "/global/cfs/cdirs/m4388/Project4/Dataset/metadata/transforms")
+    os.environ.setdefault("REPO_PATH", #path to buildingsBench modules)
+    os.environ.setdefault("BUILDINGS_BENCH", #path to buildings data)
+    os.environ.setdefault("TRANSFORM_PATH", #path to buildings data metadata/transforms)
     device = "cuda:0" if torch.cuda.is_available() else "cpu"
     print(f"[task {task_id}/{num_tasks}] Using device: {device}", flush=True)
 
@@ -825,4 +825,9 @@ def main():
 
 
 if __name__ == "__main__":
+    start_time = time.time()
     main()
+    print(f"\nFinished with all combos!", flush = True)
+    end_time = time.time()
+    hours = ((end_time - start_time)/3600)
+    print(f"\nTotal run time for entire job (all combos): {hours:.2f}hours", flush=True)
